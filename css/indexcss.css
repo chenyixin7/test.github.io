@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.headall{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: #ffffff;
+}
+.container{
+    margin: 0 auto;
+    width: 1200px;
+    padding:20px;
+}
+.headleft{
+    width: 100px;
+    height: auto;
+    margin: 10px;
+    float: left;
+}
+.headright{
+    width: 114px;
+    height: 40px;
+    float: right;
+    margin-top: 64.5px;
+}
+.bannar{
+    width: 100%;
+    height: 873px;
+    float: left;
+    background-image: url("../images/bg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
